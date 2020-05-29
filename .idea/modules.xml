@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/nihongo.iml" filepath="$PROJECT_DIR$/.idea/nihongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyprac/.idea/pyprac.iml" filepath="$PROJECT_DIR$/../pyprac/.idea/pyprac.iml" />
     </modules>
   </component>
 </project>
