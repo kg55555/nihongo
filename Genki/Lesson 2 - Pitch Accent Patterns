@@ -1,0 +1,63 @@
+###Rule 1
+
+The pitch of the first and second mora in
+every standalone word is different.
+
+Either high-low or low-high
+
+No word has two consecutive mora that are
+identical
+
+###Rule 2
+
+Once a standalone word or standalone word
+and particle experiences a downstep, it
+will never go back up.
+
+    Low-High  High-Low  Low-High-Low
+
+High-Low-High does not exist
+
+
+##Pitch Accent Patterns
+
+The pitch of the connecting particle depends on
+the pitch accent pattern.
+
+###1. あたまだか（頭高）
+High-Low
+
+Particle is low
+
+でんきが　－　あいさつが
+
+###2.へいばん（平板）
+Low-High
+
+Particle is high
+
+がくせいが
+
+###3.なかだか（中高）
+Low-High-Low
+
+Words can start low, go high, and stay
+high before dropping off. However, the
+final mora and particle will always be low,
+so the downstep must occur before then.
+
+Particle is low
+
+にほんじんが
+
+###4.おだか（尾高）
+Low-High particle low
+
+Start low, remains high for the whole
+word, and downstep for the particle
+
+おとうとが
+
+
+####Downstep cannot occur on the ん syllable, so it gets shifted one mora early
+ 
